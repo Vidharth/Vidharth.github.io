@@ -1,0 +1,32 @@
+# Skills
+# Organizational leadership
+- skill: Programming Languages
+  description: Proficient in Python | Learning Rust, C, Go
+
+# Communications strategy
+- skill: Communication Languages
+  description: English
+
+# Communications strategy
+- skill: Scripting Languages
+  description: Shell | Docker | Git | Latex
+
+# Communications strategy
+- skill: Frameworks
+  description: PyTorch | Tensorflow | Scikit-Learn | ROS
+
+# Communications strategy
+- skill: Libraries
+  description: Numpy | Matplotlib | OpenCV | JAX | LangChain
+
+# Communications strategy
+- skill: Simulators
+  description: Gazebo | Rviz | MoJoCo | PyBullet | OpenAI-Gym
+
+# Communications strategy
+- skill: Project Roles
+  description: Research | Development | Testing/QA
+
+# Communications strategy
+- skill: Project Management
+  description: Agile/Scrum | TDD/DDD

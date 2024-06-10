@@ -1,0 +1,82 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Academic Projects
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: 
+    <ul class="resume-item-list">
+      <li> Deep Learning & Reinforcement Learning</li>
+            <ul class="resume-item-list">
+              <li>Benchmarking and Performance Comparison of Different CNN Architectures</li>
+              <li>Benchmarking and Performance Comparison of PPO & DDQN Reinforcement Learning Algorithms in Open-AI Gym and Unity Environments</li>
+            </ul>
+      <li> Cognitive Robotics & Robotics for AI</li>
+            <ul class="resume-item-list">
+              <li>Object Recognition & Manipulation using Robot Arm</li>
+              <li>Object Recognition, Navigation & Grasping using NAO Robot</li>
+              <li>Path Planning, Navigation, Object Recognition, Grasping & Manipulation System using Service Robot</li>
+            </ul>
+      <li> Handwriting Recognition</li>
+            <ul class="resume-item-list">
+              <li>Handwriting Recognition & Classification System for Dead Sea Scrolls Hebrew Text from Images</li>
+            </ul>
+      <li> Natural Language Processing & Language Technology Project</li>
+            <ul class="resume-item-list">
+              <li>Comparison of Traditional & Context Sensitive Word Embeddings for Text Summarization</li>
+            </ul>
+      <li> Machine Learning</li>
+            <ul class="resume-item-list">
+              <li>Music Genre Classification</li>
+            </ul>
+      <li> Data Science</li>
+            <ul class="resume-item-list">
+              <li>Adult Acute Myeloid Leukaemia (AML) Disease Classification Challenge</li>
+            </ul>
+    </ul>
+
+- project: Research Project | Master's Thesis
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: 
+    <ul class="resume-item-list">
+      <li> <a href="https://fse.studenttheses.ub.rug.nl/26326/">Accelerating Multi-Goal Deep Reinforcement Learning by Learning from Demonstrations for Robotic Manipulation Tasks</a> </li>
+        <ul class="resume-item-list">
+          <li> Addressing One of the Drawbacks of Real World Reinforcement Learning</li>
+          <li> Complex Environments -> Slow Learning -> Large Training Times -> High System Requirements</li>
+          <li> Goal -> Accelerate the Learning -> No Compromise in Generalization -> Balance Training Time & Hardware Resources </li>
+          <li> Proposed New Loss Function & Training Strategy </li>
+          <li> Learning using Demonstrations (Source, Quality & Quantity Does Not Affect Performance) </li>
+        </ul>
+    </ul>
+
+- project: Side Projects
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: 
+    <ul class="resume-item-list">
+      <li> <a href="https://github.com/Vidharth/Coding_Assistant_Prototype">A ChatGPT Styled Interactive Application for Code & Test Case Generation & Execution</a> </li>
+        <ul class="resume-item-list">
+          <li> Generate code snippets in Python and Javascript. It also has other programming language support if needed</li>
+          <li> Supports feedback and improvement of generated code snippets</li>
+          <li> Provide functionality for generating and improving test cases </li>
+          <li> Enable running tests and improving code based on test results </li>
+          <li> Ensure proper handling of prompt injection for security </li>
+        </ul>
+      <li> Other Projects In Progress ... </li>
+    </ul>
+
+- project: Others
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: 
+    <ul class="resume-item-list">
+      <li> Reading Research Papers & Brainstorming Ideas </li>
+      <li> Keeping Up to Date with the Latest Advancements in AI & Technological Trends </li>
+      <li> Paper to Code Libraries, Architectures, Algorithms, & Others (CNN Architectures & RL Algorithms) </li>
+    </ul>
