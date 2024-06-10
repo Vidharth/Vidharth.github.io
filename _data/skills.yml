@@ -17,7 +17,7 @@
 
 # Communications strategy
 - skill: Libraries
-  description: Numpy | Matplotlib | OpenCV | JAX | LangChain
+  description: Numpy | Matplotlib | OpenCV  | LangChain | FastAPI | Streamlit | Flask | JAX
 
 # Communications strategy
 - skill: Simulators
