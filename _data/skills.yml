@@ -20,6 +20,10 @@
   description: Numpy | Matplotlib | OpenCV  | LangChain | FastAPI | Streamlit | Flask | JAX
 
 # Communications strategy
+- skill: Databases
+  description: Sqlite | ChromaDB
+
+# Communications strategy
 - skill: Simulators
   description: Gazebo | Rviz | MoJoCo | PyBullet | OpenAI-Gym
 
