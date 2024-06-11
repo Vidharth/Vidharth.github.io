@@ -67,6 +67,15 @@
           <li> Enable running tests and improving code based on test results </li>
           <li> Ensure proper handling of prompt injection for security </li>
         </ul>
+      <li> Others In Progress </li>
+        <ul class="resume-item-list">
+          <li> Real Time Voice Recognition/Speech Detection Fine Tuned on Indian English </li>
+          <li> Philosophy Assistant using Local LLM and RAG on books </li>
+          <li> Prompt Generation using Local LLM and Fine Tuned using QLoRA </li>
+          <li> Deep Fakes Detection using Vision Transformers and GANs </li>
+          <li> Q Transformers for Long Horizon Tasks </li>
+          <li> Real Time Object Detection and Tracking in Videos using Vision Transformers </li>
+        </ul>
       <li> Other Projects In Progress ... </li>
     </ul>
 
