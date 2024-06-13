@@ -3,23 +3,23 @@
     <ul class="resume-item-list">
       <li> Reinforcement Learning & Meta Learning </li>
       <li> Ethical AI & Explainable AI </li>
-      <li> AI Agents, AI Assistants, AI Automation </li>
-      <li> Context Aware AI </li>
+      <li> AI Assistants & AI Automation </li>
+      <li> Context Aware AI & AI Agents </li>
       <li> Autonomous Systems & Robotics </li>
-      <li> Multi Goal/Multi Task Learning & Long Horizon Tasks </li>
-      <li> Continual/Life Long Learning </li>
+      <li> Multi Goal Learning & Multi Task Learning & Long Horizon Tasks </li>
+      <li> Continual Learning & Life Long Learning </li>
       <li> Privacy Preserving Machine Learning & Low Resource Computing </li>
       <li> AI Cybersecurity </li>
     </ul>
 - description: Currently Learning/Working On
     <ul class="resume-item-list">
       <li> Context Aware Vision Transformers </li>
-      <li> Context Aware LLM's & Language Transformers </li>
+      <li> Context Aware LLMs & Language Transformers </li>
       <li> Context Aware Reinforcement Learning & Q Transformers </li>
-      <li> AI Agents & LAM's </li>
+      <li> AI Agents & LAMs </li>
     </ul>
 - description: Hobbies
     <ul class="resume-item-list">
-      <li> Gaming | Sometime Competitive | Mostly Casual Especially Immersive Cinematic Story Games</li>
+      <li> Gaming | Sometimes Competitive | Mostly Casual Especially Immersive Cinematic Story Games</li>
       <li> Reading | Sometimes Non FIction | Mostly Fiction Especially Sci Fi Thrillers </li>
     </ul>
