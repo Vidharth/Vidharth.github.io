@@ -1,7 +1,9 @@
 # Interests
 - description: Research Interests
     <ul class="resume-item-list">
+    <li> Path to AGI & ASI </li>
       <li> Reinforcement Learning & Meta Learning </li>
+      <li> Evolutionary Algorithms </li>
       <li> Ethical AI & Explainable AI </li>
       <li> AI Assistants & AI Automation </li>
       <li> Context Aware AI & AI Agents </li>
