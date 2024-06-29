@@ -64,7 +64,9 @@
       <li> Others In Progress </li>
         <ul class="resume-item-list">
           <li> Real Time Voice Recognition/Speech Detection Fine Tuned on Indian English </li>
+          <li> QuaRL, Quantized Reinforcement Learning, Quantized Aware Training </li>
           <li> Prompt Generation using Local LLM and Fine Tuned using QLoRA </li>
+          <li>  </li>
           <li> Deep Fakes Detection using Vision Transformers and GANs </li>
           <li> Q Transformers for Long Horizon Tasks </li>
           <li> Real Time Object Detection and Tracking in Videos using Vision Transformers </li>
