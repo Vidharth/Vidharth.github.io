@@ -60,16 +60,9 @@
   description: 
     <ul class="resume-item-list">
       <li> <a href="https://github.com/Vidharth/Coding_Assistant_Prototype">A ChatGPT Styled Interactive Application for Code & Test Case Generation & Execution</a> </li>
-        <ul class="resume-item-list">
-          <li> Generate code snippets in Python and Javascript. It also has other programming language support if needed</li>
-          <li> Supports feedback and improvement of generated code snippets</li>
-          <li> Provide functionality for generating and improving test cases </li>
-          <li> Enable running tests and improving code based on test results </li>
-          <li> Ensure proper handling of prompt injection for security </li>
-        </ul>
+      <li> <a href="https://github.com/Vidharth/Philosophy-Assistant">A Philosophy Assistant using Local LLM and RAG on text books</a> </li>
       <li> Others In Progress </li>
         <ul class="resume-item-list">
-          <li> Philosophy Assistant using Local LLM and RAG on books </li>
           <li> Real Time Voice Recognition/Speech Detection Fine Tuned on Indian English </li>
           <li> Prompt Generation using Local LLM and Fine Tuned using QLoRA </li>
           <li> Deep Fakes Detection using Vision Transformers and GANs </li>
